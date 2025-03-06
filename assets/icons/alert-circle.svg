@@ -1,5 +1,25 @@
 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.99996 18.3334C14.6023 18.3334 18.3333 14.6024 18.3333 10C18.3333 5.39765 14.6023 1.66669 9.99996 1.66669C5.39759 1.66669 1.66663 5.39765 1.66663 10C1.66663 14.6024 5.39759 18.3334 9.99996 18.3334Z" stroke="#DC2626" stroke-width="1.25"/>
-<path d="M9.99329 12.5H10.0008" stroke="#DC2626" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10 10V6.66669" stroke="#DC2626" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="20" height="20" fill="#1E1E1E"/>
+<g id="&#240;&#159;&#142;&#168;">
+<path d="M-1500 -929C-1500 -956.614 -1477.61 -979 -1450 -979H866C893.614 -979 916 -956.614 916 -929V4578C916 4605.61 893.614 4628 866 4628H-1450C-1477.61 4628 -1500 4605.61 -1500 4578V-929Z" fill="#242424"/>
+<g id="Componentes">
+<rect x="-256" y="-678" width="1092" height="5796" rx="20" fill="white"/>
+<g id="Componente">
+<g id="Detalhamento">
+<g id="FormControl">
+<rect x="-175.5" y="-411.5" width="699" height="495" rx="4.5" stroke="#9956F6" stroke-dasharray="10 5"/>
+<g id="disabled=False, error=True">
+<g id="Footer">
+<g id="alert-circle">
+<path id="Vector" d="M9.99996 18.3334C14.6023 18.3334 18.3333 14.6024 18.3333 10C18.3333 5.39765 14.6023 1.66669 9.99996 1.66669C5.39759 1.66669 1.66663 5.39765 1.66663 10C1.66663 14.6024 5.39759 18.3334 9.99996 18.3334Z" stroke="#DC2626" stroke-width="1.25"/>
+<path id="Vector_2" d="M9.99329 12.5H10.0008" stroke="#DC2626" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M10 10V6.66669" stroke="#DC2626" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
 </svg>
